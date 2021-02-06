@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223799870345",
+    "project_id": "video-downloader-208df",
+    "storage_bucket": "video-downloader-208df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223799870345:android:bdfd48273c7588507f1758",
+        "android_client_info": {
+          "package_name": "com.Codeminers.allInOne.videodownloader.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223799870345-2dr5il438jci1kprkij8p3rn8cje49p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Codeminers.allInOne.videodownloader.statussaver",
+            "certificate_hash": "e43bb9337d27cc433eb306ea4dc8bcc86df38549"
+          }
+        },
+        {
+          "client_id": "223799870345-8faem8h7cjksi5obl14vcu1792mnvsmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTTfUuHIahg7NDpelqqWrlaWyOQv_1cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223799870345-8faem8h7cjksi5obl14vcu1792mnvsmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
